@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Case Filing Procedure",
+    "content": "To file a new case, clients must submit a completed intake form along with all relevant supporting documents. The intake process begins with an initial consultation, during which the attorney reviews the case merits. Once accepted, a retainer agreement is signed and an upfront fee is collected. Cases are assigned a unique case ID within 24 hours of acceptance. Clients can track their case status via the client portal at any time. All documents should be submitted in PDF format. Physical documents must be notarized where applicable. Incomplete submissions will be returned for correction within 3 business days."
+  },
+  {
+    "id": "2",
+    "title": "Consultation Fees and Billing",
+    "content": "Initial consultations are available at a flat rate of $150 for up to 60 minutes. Extended consultations beyond 60 minutes are billed at $200 per hour. Retainer fees vary depending on the complexity and type of case: civil litigation starts at $2,500, family law cases start at $1,500, and corporate legal services start at $5,000. Monthly billing statements are sent on the 1st of each month. Clients can pay via bank transfer, credit card, or check. Overdue invoices are subject to a 1.5% monthly interest charge. Pro bono services are available for qualifying low-income individuals — contact the intake team for eligibility."
+  },
+  {
+    "id": "3",
+    "title": "Client Confidentiality and Privacy Policy",
+    "content": "All communications between clients and attorneys at Rest the Case are protected under attorney-client privilege. We do not share, sell, or disclose any client information to third parties without explicit written consent, except where required by law. All case files are stored in encrypted servers with AES-256 encryption. Access is restricted to assigned legal staff only. Clients have the right to request a copy of their personal data at any time. Data is retained for 7 years post-case-closure in compliance with legal record-keeping requirements. Breach notification is provided within 72 hours if a data incident occurs."
+  },
+  {
+    "id": "4",
+    "title": "Appointment Scheduling and Cancellations",
+    "content": "Appointments can be scheduled online via the client portal, by phone, or by email. We offer in-person, phone, and video consultations. Appointments must be booked at least 24 hours in advance. To cancel or reschedule, clients must notify the office at least 12 hours before the scheduled time. Cancellations made with less than 12 hours notice will incur a $50 late cancellation fee. No-shows are billed the full consultation fee. Emergency legal consultations are available 24/7 for existing clients at a premium rate. Office hours are Monday through Friday, 9 AM to 6 PM, and Saturday 10 AM to 2 PM."
+  },
+  {
+    "id": "5",
+    "title": "Case Types and Practice Areas",
+    "content": "Rest the Case handles a wide range of legal matters across multiple practice areas. Civil Litigation includes contract disputes, property disputes, and tort claims. Family Law covers divorce, child custody, alimony, and adoption proceedings. Criminal Defense includes representation for misdemeanors, felonies, and DUI charges. Corporate Law covers business formation, mergers, acquisitions, and compliance. Employment Law handles wrongful termination, workplace discrimination, and wage disputes. Immigration Law assists with visas, green cards, asylum claims, and deportation defense. Personal Injury cases include auto accidents, medical malpractice, and slip-and-fall injuries."
+  },
+  {
+    "id": "6",
+    "title": "Document Submission Requirements",
+    "content": "All documents submitted to Rest the Case must meet specific standards. Digital files must be in PDF/A format with a maximum size of 25MB per file. File names must follow the convention: CaseID_DocumentType_Date (e.g., RC2024001_Contract_20240101). Physical documents must be originals or certified copies. Foreign-language documents must be accompanied by a certified English translation. Medical records require a signed HIPAA release form. Financial documents such as tax returns and bank statements must cover the past 3 years. Contracts must include all addenda and amendments. Missing documents will delay case proceedings."
+  },
+  {
+    "id": "7",
+    "title": "Appeals and Dispute Resolution",
+    "content": "If a client is dissatisfied with case handling or billing, they may file a formal complaint with the client relations department. Complaints must be submitted in writing within 30 days of the issue. The firm will investigate and respond within 15 business days. For legal disputes, the firm offers mediation services as an alternative to litigation. Appeals of court decisions are handled by our appellate practice team. Notice of appeal must be filed within the jurisdiction-specific deadline — typically 30 days for civil cases and 10 days for criminal cases. Clients are advised to discuss appeal prospects with their assigned attorney before proceeding."
+  },
+  {
+    "id": "8",
+    "title": "Attorney Assignment and Case Transfers",
+    "content": "Upon case acceptance, clients are assigned a lead attorney based on specialization and availability. Associates may assist on complex cases. Clients may request a change of attorney within the first 30 days without penalty. After 30 days, attorney transfers may result in additional onboarding fees. If an assigned attorney leaves the firm, the case is transferred to another qualified attorney at no additional cost. Clients will be notified of any staffing changes within 48 hours. The lead attorney is responsible for all case strategy and communications. Contact information for the assigned attorney is available in the client portal under 'My Legal Team'."
+  },
+  {
+    "id": "9",
+    "title": "Refund and Retainer Policy",
+    "content": "Retainer fees are held in a client trust account and drawn down as services are rendered. Unused retainer balances are refunded within 14 business days of case closure or termination. Clients may request an itemized billing statement at any time to review retainer usage. Flat-fee services are non-refundable once work has commenced. If the firm terminates the client relationship, a prorated refund is issued for unearned fees. Clients wishing to terminate services must provide written notice. Disputes over billing must be raised within 60 days of invoice issuance. The firm's refund decisions can be appealed to the managing partner."
+  },
+  {
+    "id": "10",
+    "title": "Emergency Legal Services",
+    "content": "Rest the Case provides 24/7 emergency legal assistance for urgent matters. Emergency services include bail hearings, restraining orders, emergency custody orders, and crisis corporate compliance issues. To access emergency services, existing clients should call the emergency hotline listed in their welcome packet. New clients seeking emergency help should call the main office line and select option 9. Emergency consultations are billed at 1.5x the standard hourly rate. An emergency retainer of $1,000 is required for new clients before services commence. Response time is typically within 2 hours. Emergency requests are triaged by an on-call attorney who determines urgency and next steps."
+  }
+]
